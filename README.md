@@ -1,6 +1,6 @@
 # Earthquake API!
 
-
+The api used was https://earthquake.usgs.gov/
 
 ## QUERY #1 Top 5 earthquakes with the biggest magnitudes in Japan in 2022. 
 
